@@ -22,16 +22,17 @@ This is a full-stack web application for tracking and analyzing nutrition data. 
 
 
 ### Login Page
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/0b41ddac-4775-4058-8a92-ceb65c629aca)
 
 ### Signup Page
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/9feba5a2-ab8f-47c5-be20-ee3a49237a18)
 
 ### Home Page
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/ec63e262-2ad4-4adf-afb0-34386a334dec)
 
 ### Update Personal Data
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/790b5cff-2789-47f9-b72d-17ae1f5c1e06)
+
 
 
 ### PostgreSQL user table
