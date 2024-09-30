@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+
+/* src/App.css */
+.btn {
+  border-radius: 25px; /* Rounded button corners */
+  padding: 10px 20px; /* Padding for buttons */
+  font-size: 16px; /* Font size for buttons */
+  transition: all 0.3s ease; /* Smooth transition */
+}
+.btn-primary {
+  margin: 5px;
+}
+.btn-light-blue {
+  background-color: #a4d8e1; /* Light blue background */
+  color: white;
+  border: none;
+}
+
+.btn-light-blue:hover {
+  background-color: #7ec6d9;
+  margin: 5px; /* Darker blue on hover */
+}
+
+.btn-danger {
+  background-color: #dc3545; /* Red background for logout */
+  color: white;
+  margin: 5px;
+}
+
+.btn-danger:hover {
+  background-color: #c82333; /* Darker red on hover */
+}
+
+.table {
+  width: 80%; /* Center the table */
+}
+
+.table th, .table td {
+  border: 1px solid #dee2e6; /* Light border */
+}
+
+.table th {
+  background-color: #a4d8e1; /* Light blue for headers */
+  color: white;
+}
+
